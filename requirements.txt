@@ -1,0 +1,13 @@
+# versions used for the results of the paper (Python 3.11)
+numpy==2.4.4
+scipy==1.17.1
+scikit-learn==1.8.0
+xgboost==3.2.0
+pandas==3.0.2
+matplotlib==3.10.9
+joblib==1.5.3
+pyproj==3.7.2
+xlrd==2.0.2
+geopandas==0.14.4   # Fig. 1 and the geology comparison (Natural Earth coastlines, geological map)
+shapely==2.1.2
+fiona==1.10.1
